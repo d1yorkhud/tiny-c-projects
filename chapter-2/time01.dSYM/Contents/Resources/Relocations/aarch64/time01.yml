@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/diyor/Code/tiny-c-projects/chapter-2/time01'
+relocations:     []
+...
